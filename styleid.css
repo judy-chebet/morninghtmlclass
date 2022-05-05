@@ -1,0 +1,16 @@
+#fruits{
+    border: 2px solid lightcoral;
+    color: darkcyan;
+    background-color: olive;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+#cars{
+    border: 2px solid navajowhite;
+    color: lightseagreen;
+    background-color: lightpink;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
